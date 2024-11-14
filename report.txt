@@ -1,0 +1,75 @@
+IBM HR Attrition Report
+Overview of Attrition Statistics
+Total Employees: 1,470
+Ex-Employees (Attrition Cases): 237
+Attrition Rate: 16.12%
+Average Years in Current Role: 2.90
+Average Years at Company: 5.13
+Average Age of Employees: 33.61 years
+Average Monthly Salary: $5,000
+Key Insights and Trends
+Attrition by Department:
+
+Sales: The highest attrition rate at 20.63%.
+Human Resources: Follows closely with an attrition rate of 19.05%.
+Research & Development (R&D): Has a lower attrition rate of 13.84%.
+Insight: Departments with higher attrition rates may face specific job-related challenges. Sales and HR roles might require additional support and engagement strategies to improve retention.
+Attrition by Education Field:
+
+Human Resources: Experiences the highest attrition at 25.93%.
+Technical Degree: 24.24% attrition rate.
+Marketing, Life Sciences, Medical, and Other Fields: Lower attrition rates, suggesting a lesser impact of educational background on attrition here.
+Insight: HR and Technical Degree holders may face specific challenges within their roles, necessitating targeted engagement strategies.
+Attrition by Distance from Home:
+
+Employees living 21-25 km away show the highest attrition rate at 27.35%.
+Attrition decreases as distance from home decreases, with the lowest attrition among those living within 1.5 km of the workplace (13.77%).
+Insight: Commuting distance significantly impacts attrition, especially for those living farther away. Remote or hybrid work options could mitigate this challenge.
+Attrition by Job Level:
+
+Entry-Level: The highest attrition rate at 26.34%.
+Junior Level: 16.26% attrition rate.
+Senior Levels: Show a lower attrition rate, suggesting greater stability among more experienced employees.
+Insight: Entry-level employees may require more support in career development and onboarding to reduce early turnover.
+Attrition by Work-Life Balance:
+
+Poor Work-Life Balance: Highest attrition rate at 31.25%.
+Excellent Work-Life Balance: Lowest attrition rate at 17.65%.
+Insight: Work-life balance plays a critical role in employee retention. A poor work-life balance correlates strongly with higher attrition, emphasizing the need for initiatives to improve work-life quality.
+Attrition by Age Group:
+
+18-25 Years: Highest attrition rate at 35.77%.
+26-35 Years: Shows moderate attrition at 19.14%.
+36-45 Years: Lowest attrition at 9.19%.
+Insight: Younger employees are more likely to leave, indicating the need for robust early-career engagement programs to retain younger talent.
+Attrition by Job Satisfaction:
+
+Low Satisfaction: Attrition rate of 22.84%.
+Very High Satisfaction: Lower attrition rate of 11.33%.
+Insight: Higher satisfaction levels are associated with better retention, suggesting that boosting job satisfaction could help reduce attrition.
+Attrition by Years at Company:
+
+0-1 Years: The highest attrition rate at 34.88%.
+2-3 Years: 18.43% attrition rate.
+10+ Years: Lower attrition rates (6.94%), showing increased loyalty with tenure.
+Insight: New employees are at higher risk of leaving, which points to the importance of strong onboarding and early engagement efforts.
+Key Causes of Attrition
+Long Commuting Distance: Employees living farther from the workplace have higher attrition, indicating that commuting stress may impact job satisfaction.
+Work-Life Balance: Poor work-life balance is a significant factor in attrition, with those reporting dissatisfaction in this area leaving at a higher rate.
+Low Job Satisfaction: Lower job satisfaction levels correlate with higher attrition, suggesting that employees who feel undervalued or unsupported are more likely to leave.
+High Attrition in Younger Employees: The 18-25 age group and entry-level positions show the highest turnover, indicating a need for better engagement and growth opportunities for younger staff.
+Recommendations for Reducing Attrition
+Implement Flexible Work Policies: Offering remote or hybrid work options could help reduce attrition for employees facing long commutes, particularly those living over 15 km from the workplace.
+
+Enhance Work-Life Balance: Introduce programs to support a better work-life balance, such as flexible hours, wellness initiatives, or workload adjustments, especially for employees with a “poor” work-life balance rating.
+
+Focus on Career Development for Entry-Level Employees: Develop clear growth pathways, mentorship, and development opportunities for entry-level employees to increase engagement and reduce turnover.
+
+Increase Job Satisfaction through Employee Feedback: Conduct regular engagement surveys and take action on feedback to improve job satisfaction, addressing issues like workplace environment, team dynamics, and management support.
+
+Engage Younger Talent: Tailor retention programs to the needs of younger employees in the 18-25 age group, emphasizing career development, mentorship, and workplace flexibility to foster loyalty.
+
+Strengthen Onboarding Programs: Given the high attrition among new employees, create an engaging and supportive onboarding experience to help them integrate smoothly and feel valued from the beginning.
+
+By addressing these insights and implementing targeted retention strategies, IBM can foster a more supportive and stable work environment, reducing attrition and building a stronger, more loyal workforce.
+
