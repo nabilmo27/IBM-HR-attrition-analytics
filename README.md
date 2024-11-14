@@ -13,7 +13,7 @@ This project focuses on analyzing the factors that contribute to employee attrit
 - **Ex-Employees:** 237
 - **Attrition Rate:** 16.12%
   
-The data includes various features such as department, job level, job satisfaction, work-life balance, and more. *(Note: Be sure to anonymize data if it includes sensitive information before sharing publicly.)*
+The data includes various features such as department, job level, job satisfaction, work-life balance, and more. 
 
 ## Key Findings
 
@@ -43,12 +43,8 @@ The data includes various features such as department, job level, job satisfacti
 - **18-25 years:** 35.77% attrition.
 - **46-55 years:** Lowest attrition at 9.19%.
 
-*(You can add other relevant findings based on your analysis.)*
-
 ## Tools and Technologies Used
 - **Data Analysis:** Power BI
-- **Data Visualization:** Dashboards and charts for understanding trends and patterns.
-- **Programming:** *(Optional - mention if you used Python, SQL, etc.)*
 - **Microsoft Excel:** *(Optional - mention any other tools you used.)*
 
 ## Recommendations
